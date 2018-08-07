@@ -1,2 +1,9 @@
 hello
+<<<<<<< HEAD
+<<<<<<< HEAD
 good boy
+=======
+>>>>>>> parent of d442aa4... add good
+=======
+good morning
+>>>>>>> parent of 798c2b8... add boy
