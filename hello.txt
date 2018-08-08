@@ -1,7 +1,3 @@
 hello
-<<<<<<< HEAD
 good boy
 haha
-=======
-good morning
->>>>>>> parent of 798c2b8... add boy
