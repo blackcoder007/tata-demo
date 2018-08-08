@@ -1,3 +1,6 @@
 hello
+<<<<<<< HEAD
 good boy
 haha
+=======
+>>>>>>> parent of d442aa4... add good
